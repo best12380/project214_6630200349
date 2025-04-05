@@ -79,9 +79,8 @@ export default {
   data() {
     return {
       profileImages: [
-        require("@/assets/images/1270e12c64500c4b4b217be1a60337b0.jpg"),
-        require("@/assets/images/artworks-000201806104-c4px4h-t1080x1080.jpg"),
-        require("@/assets/images/mitsuki-koga-v0-pzl93pl5htyd1.webp"),
+        require("@/assets/images/31e52ed1-553c-4904-b022-ce6b76ed36bc.jpg"),
+        require("@/assets/images/061bc8a5-6cff-465d-8daf-de9c894b98cf.jpg"),
       ],
       currentIndex: 0,
       fullName: "Poramet Hanfa",
